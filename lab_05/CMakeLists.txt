@@ -3,7 +3,7 @@ project(lab_05)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(lab07
+add_executable(lab_05
     Lab_05.cpp
     header.hpp
     task1.cpp
